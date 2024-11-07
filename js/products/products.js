@@ -5,3 +5,4 @@ const products = [
     { name: 'Product 4', qty: 24}
 ]
 
+const minQuantity = 10;
