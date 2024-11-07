@@ -6,3 +6,4 @@ const products = [
     { name: 'Product 5', qty: 36}
 ]
 
+const minQuantity = 10;
